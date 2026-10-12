@@ -1,7 +1,7 @@
 # Automated Monthly KPI Report
 
 A script that builds a monthly KPI workbook in Excel for FormWise, a made-up online legal-document subscription
-service. The data is simulated (`data/generate_data.py`).
+service. The data is simulated by generate_data.py.
 
 The goal was to replace a manual monthly report with something anyone can re-run, and to let people look at any
 month themselves without asking for a new report.
