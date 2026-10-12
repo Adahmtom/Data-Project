@@ -17,7 +17,7 @@ values. Everything is driven by one cell, the report month, which has a dropdown
 | Data Quality | Flags months where purchase tracking and billing disagree by more than a set tolerance (3% by default, editable) |
 | Data | Raw extract the formulas read from |
 
-It also writes a short text summary of the month (`output/summary_YYYY-MM.md`).
+It also writes a short text summary to summary_YYYY-MM.md.
 
 ## Run it
 ```
